@@ -1,6 +1,6 @@
 {
-  "customer_name": "Komal",
-  "total_amount": 60000,
+  "customer_name": "Rajan kumar",
+  "total_amount":5000,
   "items": [
     {
       "item_name": "Biryani1"
